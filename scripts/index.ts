@@ -1,1 +1,1 @@
-console.log("Look at this immaginative use of typescript")
+console.log("Look at this immaginative use of typescripts")
