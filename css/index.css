@@ -1,4 +1,6 @@
 /*css document*/
+
+/*element declerations*/
 * {
     box-sizing: border-box;
 }
@@ -7,6 +9,8 @@ body {
     background-color: antiquewhite;
 }
 
-h1 {
+/*class declerations*/
+.hello {
     color: blueviolet;
 }
+/*id declerations*/
