@@ -15,3 +15,7 @@ body {
     font-family: "Comic Sans MS", "Comic Sans";
 }
 /*id declerations*/
+#button1 {
+    background-color: azure;
+    color: orangered;
+}
